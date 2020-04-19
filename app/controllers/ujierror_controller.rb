@@ -1,0 +1,2 @@
+class UjierrorController < ApplicationController
+end
