@@ -1,6 +1,7 @@
 # README
 
-1. Complete RoR course
+1. Complete RoR course - Rio si Student
+2. Before august
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
