@@ -2,6 +2,7 @@
 
 1. Complete RoR course - Rio si Student
 2. Before august
+3. Oke.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
